@@ -14,7 +14,7 @@ Skills: HTML, CSS, Javascript, React Native, Kotlin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayokb)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yayokb&show_icons=true&count_private=true)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YayoKB?bg_color=252525)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yayokb)  
 
