@@ -9,13 +9,6 @@ Skills: HTML, CSS, Javascript, React Native, Kotlin
 - 😄 Pronouns: she/her/hers 
 - ⚡ Fun fact: I'm a geek about capital cities. Quiz me! 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yayokb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kateblake3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg' alt='artstation' height='40'>](https://www.artstation.com/yayokb/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayokb)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YayoKB?bg_color=252525)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yayokb)  
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ln43afcfjuwrkja4x1ls3gs2&cover_image=true&theme=default&bar_color=4eb150&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6ln43afcfjuwrkja4x1ls3gs2&redirect=true)
