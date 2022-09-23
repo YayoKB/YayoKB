@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, I'm Kate!
+I'm a committed college student with a passion for technology. The computer-bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. I enjoy Web Development, 3D modelling, photography and video games. I'm really interested in learning more about cybersecurity, data science and AI/ML.
 
-<!--
-**YayoKB/YayoKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML, CSS, Javascript, React Native, Kotlin
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on school projects (1 website and 3 mobile apps) 
+- 🌱 I’m currently learning HTML, CSS, Javascript, React Native, Kotlin 
+- 🤔 I’m looking for help with becoming a better web developer. 
+- 😄 Pronouns: she/her/hers 
+- ⚡ Fun fact: I'm a geek about capital cities. Quiz me! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yayokb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kateblake3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg' alt='artstation' height='40'>](https://www.artstation.com/yayokb/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayokb)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yayokb&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yayokb)  
+
+![Profile views](https://gpvc.arturio.dev/yayokb)  
