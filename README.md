@@ -18,4 +18,4 @@ Skills: HTML, CSS, Javascript, React Native, Kotlin
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yayokb)  
 
-![Profile views](https://gpvc.arturio.dev/yayokb)  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ln43afcfjuwrkja4x1ls3gs2&cover_image=true&theme=default&bar_color=4eb150&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6ln43afcfjuwrkja4x1ls3gs2&redirect=true)
