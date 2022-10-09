@@ -1,13 +1,13 @@
 <img src="https://github.com/YayoKB/YayoKB/blob/main/gh%20header1.png"/>
 
 # Hi there 👋, I'm Kate!</h1>
-I'm a committed college student with a passion for technology. The computer-bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. I enjoy Web Development, 3D modelling, photography and video games. I'm really interested in learning more about cybersecurity, data science and AI/ML.
+I'm a committed college student with a passion for technology. The computer-bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. I enjoy Front-End Web Development, 3D modelling, photography and video gaming. I'm really interested in learning more about cybersecurity, data science and AI/ML. (I only have so much time, though. Wish I had more!)
 
 - ✍🏻 Right now I'm working on school projects (1 website and 3 mobile apps) 
 - 👩🏼‍🎓 I’m currently learning HTML, CSS, Javascript, React Native and Kotlin 
 - 🔎 I’m looking for job opportunities and help with becoming a better web developer 
 - 🌸 Pronouns: she/her/hers 
-- 🌍 Fun fact: I'm a geek about capital cities. Quiz me!
+- 🌍 Fun fact: I know *most* Capital Cities. Quiz me!
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black)
