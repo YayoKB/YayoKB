@@ -1,11 +1,11 @@
 <img src="https://github.com/YayoKB/YayoKB/blob/main/gh%20header1.png"/>
 
 # Hi there 👋, I'm Kate!</h1>
-I'm a committed college student with a passion for technology. The computer-bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. I enjoy Front-End Web Development, 3D modelling, photography and video gaming. I'm really interested in learning more about cybersecurity, data science and AI/ML. (I only have so much time, though. Wish I had more!)
+I'm a committed college student with a passion for technology. The computer-bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. I enjoy Front-End Web Development, 3D modelling, photography and video gaming. I'm interested in learning more about cybersecurity, data science and AI/ML. (I only have so much time, though. Wish I had more!)
 
 - ✍🏻 Right now I'm working on school projects (1 website and 3 mobile apps) 
 - 👩🏼‍🎓 I’m currently learning HTML, CSS, Javascript, React Native and Kotlin 
-- 🔎 I’m looking for job opportunities and help with becoming a better web developer 
+- 🔎 I’m looking for job opportunities and help with becoming a better web developer :)
 - 🌸 Pronouns: she/her/hers 
 - 🌍 Fun fact: I know *most* Capital Cities. Quiz me!
 
@@ -22,7 +22,7 @@ I'm a committed college student with a passion for technology. The computer-bug 
 
 [![Kate’s github stats](https://github-readme-stats.vercel.app/api?username=yayokb&show_icons=true&hide_border=true&bg_color=90,1a1a1a,00402C&title_color=1AFFB7&text_color=EFFFFA&icon_color=00FFA9&border_radius=20&custom_title=These%20are%20my%20Github%20stats!&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayokb&hide_border=true&bg_color=90,1a1a1a,00402C&title_color=1AFFB7&text_color=EFFFFA&icon_color=00FFA9&border_radius=20&custom_title=My%20most%20commonly%20used%20languages&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yayokb&hide_border=true&bg_color=90,1a1a1a,00402C&title_color=1AFFB7&text_color=EFFFFA&icon_color=00FFA9&border_radius=20&custom_title=My%20most%20commonly%20used%20languages&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 [![@yayokb's Holopin board](https://holopin.io/api/user/board?user=yayokb)](https://holopin.io/@yayokb)
 
