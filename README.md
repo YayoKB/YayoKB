@@ -30,5 +30,5 @@ I'm a committed college student with a passion for technology. The computer-bug 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ln43afcfjuwrkja4x1ls3gs2&cover_image=true&theme=default&bar_color=4eb150&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6ln43afcfjuwrkja4x1ls3gs2&redirect=true)
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yayokb-yayokb&color=55acb7&style=for-the-badge&logo=Github)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yayokb-yayokb&color=1AFFB7&lcolor=222222&style=for-the-badge&logo=Github)
 ![](https://hit.yhype.me/github/profile?user_id=38580104)
