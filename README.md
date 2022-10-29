@@ -35,14 +35,19 @@ I'm a committed college student with a passion for technology. The computer-bug 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=F5792A&labelColor=111111)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=FF7139&labelColor=111111)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=111111)
-
-[![Kate’s github stats](https://github-readme-stats.vercel.app/api?username=yayokb&show_icons=true&hide_border=true&bg_color=90,1a1a1a,00402C&title_color=1AFFB7&text_color=EFFFFA&icon_color=00FFA9&border_radius=20&custom_title=These%20are%20my%20Github%20stats!&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yayokb&hide_border=true&bg_color=90,1a1a1a,00402C&title_color=1AFFB7&text_color=EFFFFA&icon_color=00FFA9&border_radius=20&custom_title=My%20most%20commonly%20used%20languages&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yayokb&show_icons=true&hide_border=true&bg_color=90,1a1a1a,00402C&title_color=1AFFB7&text_color=EFFFFA&icon_color=00FFA9&border_radius=20&custom_title=These%20are%20my%20Github%20stats!&card_width=500" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayokb&hide_border=true&bg_color=90,1a1a1a,00402C&title_color=1AFFB7&text_color=EFFFFA&icon_color=00FFA9&border_radius=20&custom_title=My%20most%20commonly%20used%20languages&card_width=500" />
+</a>
 
 [![@yayokb's Holopin board](https://holopin.io/api/user/board?user=yayokb)](https://holopin.io/@yayokb)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ln43afcfjuwrkja4x1ls3gs2&cover_image=true&theme=default&bar_color=4eb150&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6ln43afcfjuwrkja4x1ls3gs2&redirect=true)
+<div align="center"><a href="https://www.data-card-for-spotify.com/card?user_id=6ln43afcfjuwrkja4x1ls3gs2">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=6ln43afcfjuwrkja4x1ls3gs2" alt="Data Card for Spotify">
+  </a></div>
 
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yayokb-yayokb&color=1AFFB7&lcolor=222222&style=for-the-badge&logo=Github)
 ![](https://hit.yhype.me/github/profile?user_id=38580104)
