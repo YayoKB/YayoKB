@@ -1,5 +1,7 @@
 <img src="https://github.com/YayoKB/YayoKB/blob/main/gh%20header1.png"/>
 
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=6000&pause=2000&color=33A781&center=true&vCenter=true&multiline=true&width=650&lines=Pineapple+on+pizza%2C+cat+person%2C+tea+lover%2C+gamer" alt="Typing SVG" /></a></div>
+
 # Hey, I'm Kate 😎
 I'm a committed college student with a passion for technology. The computer-bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. I enjoy Front-End Web Development, 3D modelling, photography and video gaming. One of my dreams is to travel the world (and bring my mom along with me. She deserves it!) 💙
 
@@ -8,6 +10,16 @@ I'm a committed college student with a passion for technology. The computer-bug 
 - 🔎 I’m looking for job opportunities and help with becoming a better web developer :)
 - 🌸 Pronouns: she/her/hers 
 - 🌍 Fun fact: I know *most* Capital Cities. Quiz me!
+
+<details>
+  <summary><h2>Socials<h2></summary>
+  
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/kateblake3)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kateellablake@gmail.com)
+  [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/yayokb)
+  [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yayokb/)
+  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/6ln43afcfjuwrkja4x1ls3gs2)
+</details>
 
 ## Tech Stack
 ### Languages
@@ -21,6 +33,8 @@ I'm a committed college student with a passion for technology. The computer-bug 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84&labelColor=111111)
 ### Other Programs
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=F5792A&labelColor=111111)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=FF7139&labelColor=111111)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=111111)
 
 [![Kate’s github stats](https://github-readme-stats.vercel.app/api?username=yayokb&show_icons=true&hide_border=true&bg_color=90,1a1a1a,00402C&title_color=1AFFB7&text_color=EFFFFA&icon_color=00FFA9&border_radius=20&custom_title=These%20are%20my%20Github%20stats!&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
