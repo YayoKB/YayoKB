@@ -5,9 +5,9 @@
 # Hey, I'm Kate 😎
 I'm a committed college student with a passion for technology. The computer-bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. I enjoy Front-End Web Development, 3D modelling, photography and video gaming. One of my dreams is to travel the world (and bring my mom along with me. She deserves it!) 💙
 
-- ✍🏻 Right now I'm working on school projects (1 website and 3 mobile apps) 
+- ✍🏻 Right now I'm working on school projects ([a React-Native book-tracker app](https://github.com/YayoKB/Book-Tracker-App))
 - 👩🏼‍🎓 I’m currently learning HTML, CSS, Javascript, React Native and Kotlin 
-- 🔎 I’m looking for job opportunities and help with becoming a better web developer :)
+- 🔎 I’m looking for tips and help with becoming a better web developer :)
 - 🌸 Pronouns: she/her/hers 
 - 🌍 Fun fact: I know *most* Capital Cities. Quiz me!
 
@@ -49,5 +49,8 @@ I'm a committed college student with a passion for technology. The computer-bug 
   <img src="https://www.data-card-for-spotify.com/api/card?user_id=6ln43afcfjuwrkja4x1ls3gs2" alt="Data Card for Spotify">
   </a></div>
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yayokb-yayokb&color=1AFFB7&lcolor=222222&style=for-the-badge&logo=Github)
+<div align="center">
+  
+  ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yayokb-yayokb&color=1AFFB7&lcolor=222222&style=for-the-badge&logo=Github)
 ![](https://hit.yhype.me/github/profile?user_id=38580104)
+    </div>
