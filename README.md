@@ -1,23 +1,20 @@
-<img src="https://github.com/YayoKB/YayoKB/blob/main/gh%20header1.png"/>
-
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=6000&pause=2000&color=33A781&center=true&vCenter=true&multiline=true&width=650&lines=Pineapple+on+pizza%2C+cat+person%2C+tea+lover%2C+gamer" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=6000&pause=2000&color=33A781&center=true&vCenter=true&multiline=true&width=650&lines=Pineapple+on+pizza%2C+cat+person%2C+tea+lover%2C+gamer" alt="Pineapple on pizza, cat person, tea lover, gamer." /></a></div>
 
 # Hey, I'm Kate 😎
-I'm a Junior Front-End Web Dev with a passion for technology. The computer-bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. I enjoy Front-End Web Development, 3D modelling, photography and video gaming. One of my dreams is to travel the world (and bring my mom along with me. She deserves it!) 💙
+I'm a Junior Front-End Web Dev with a passion for technology. The computer bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. Besides front-end web dev, I enjoy 3D modelling, photography and gaming. One of my dreams is to travel the world (and bring my mom along with me. She deserves it!) 💙
 
 - ✍🏻 Right now I'm working my first job!
-- 👩🏼‍🎓 I’m currently working with React and trying to develop my front-end skills.
+- 👩🏼‍🎓 I’m currently learning React and trying to build a few side projects.
 - 🔎 I’m always open to tips and help with becoming a better web developer :)
-- 🌸 Pronouns: she/her/hers 
+- 🎮 Favourite games: Assassin's Creed Odyssey, Tomb Raider: Legend/Underworld, Euro Truck Simulator 2 (almost 500 hours...)
 - 🌍 Fun fact: I know *most* Capital Cities. Quiz me!
 
-<details>
+<details open="">
   <summary><h2>Socials<h2></summary>
   
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/kateblake3)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kateellablake@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kateblake3)
+  [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/yayokb)
   [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/yayokb)
-  [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yayokb/)
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/6ln43afcfjuwrkja4x1ls3gs2)
 </details>
 
@@ -45,9 +42,11 @@ I'm a Junior Front-End Web Dev with a passion for technology. The computer-bug b
 
 [![@yayokb's Holopin board](https://holopin.io/api/user/board?user=yayokb)](https://holopin.io/@yayokb)
 
-<div align="center"><a href="https://www.data-card-for-spotify.com/card?user_id=6ln43afcfjuwrkja4x1ls3gs2">
-  <img src="https://www.data-card-for-spotify.com/api/card?user_id=6ln43afcfjuwrkja4x1ls3gs2" alt="Data Card for Spotify">
-  </a></div>
+<div align="center">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=6ln43afcfjuwrkja4x1ls3gs2">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=6ln43afcfjuwrkja4x1ls3gs2" alt="Data Card for Spotify">
+</a>
+</div>
 
 <div align="center">
   
