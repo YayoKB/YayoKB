@@ -4,15 +4,16 @@
 I'm a Junior Front-End Web Dev with a passion for technology. The computer bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. Besides front-end web dev, I enjoy 3D modelling, photography and gaming. One of my dreams is to travel the world (and bring my mom along with me. She deserves it!) 💙
 
 - ✍🏻 Right now I'm working my first job!
-- 👩🏼‍🎓 I’m currently learning React and trying to build a few side projects.
+- 👩🏼‍🎓 I’m currently learning React, Next, Tailwind and Framer Motion, as well as trying to build a few side projects.
 - 🔎 I’m always open to tips and help with becoming a better web developer :)
-- 🎮 Favourite games: Assassin's Creed Odyssey, Tomb Raider: Legend/Underworld, Euro Truck Simulator 2 (almost 500 hours...)
+- 🎮 Favourite games: Assassin's Creed Odyssey, Genshin Impact, Tomb Raider: Legend/Underworld and Euro Truck Simulator 2 (almost 500 hours...)
 - 🌍 Fun fact: I know *most* Capital Cities. Quiz me!
 
 <details open="">
   <summary><h2>Socials<h2></summary>
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kateblake3)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kateblake_dev)
   [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/yayokb)
   [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/yayokb)
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/6ln43afcfjuwrkja4x1ls3gs2)
@@ -23,11 +24,12 @@ I'm a Junior Front-End Web Dev with a passion for technology. The computer bug b
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=111111)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=111111)
 ![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=111111)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&color=61DAFB&logoColor=61DAFB&labelColor=111111)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=111111)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=111111)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=111111)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=111111)
+
 ### Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=111111)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84&labelColor=111111)
 ### Other Programs
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=F5792A&labelColor=111111)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=FF7139&labelColor=111111)
