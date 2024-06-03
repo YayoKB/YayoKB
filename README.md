@@ -4,7 +4,7 @@
 I'm a Junior Front-End Web Dev with a passion for technology. The computer bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. Besides front-end web dev, I enjoy 3D modelling, photography and gaming. One of my dreams is to travel the world (and bring my mom along with me. She deserves it!) 💙
 
 - ✍🏻 Right now I'm working my first job!
-- 👩🏼‍🎓 I’m currently learning React, Next, Tailwind and Framer Motion, as well as trying to build a few side projects.
+- 👩🏼‍🎓 I’m currently learning about APIs, GraphQL and Apollo, as well as trying to build a few side projects.
 - 🔎 I’m always open to tips and help with becoming a better web developer :)
 - 🎮 Favourite games: Assassin's Creed Odyssey, Genshin Impact, Tomb Raider: Legend/Underworld and Euro Truck Simulator 2 (almost 500 hours...)
 - 🌍 Fun fact: I know *most* Capital Cities. Quiz me!
@@ -20,7 +20,7 @@ I'm a Junior Front-End Web Dev with a passion for technology. The computer bug b
 </details>
 
 ## Tech Stack
-### Languages
+### Languages / Libraries / Frameworks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=111111)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=111111)
 ![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=111111)
@@ -30,6 +30,7 @@ I'm a Junior Front-End Web Dev with a passion for technology. The computer bug b
 
 ### Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=111111)
+
 ### Other Programs
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=F5792A&labelColor=111111)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=FF7139&labelColor=111111)
