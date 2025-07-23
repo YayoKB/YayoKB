@@ -1,10 +1,10 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=6000&pause=2000&color=33A781&center=true&vCenter=true&multiline=true&width=650&lines=Pineapple+on+pizza%2C+cat+person%2C+tea+lover%2C+gamer" alt="Pineapple on pizza, cat person, tea lover, gamer." /></a></div>
 
 # Hey, I'm Kate 😎
-I'm a Junior Front-End Web Dev with a passion for technology. The computer bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. Besides front-end web dev, I enjoy 3D modelling, photography and gaming. One of my dreams is to travel the world (and bring my mom along with me. She deserves it!) 💙
+I'm an Intermediate Frontend Dev with a passion for technology. The computer bug bit me as a kid, and when I got my hands on a laptop at age 10, I never looked back. Besides front-end web dev, I enjoy 3D modelling, photography and gaming. One of my dreams is to travel the world (and bring my mom along with me. She deserves it!) 💙
 
 - ✍🏻 Right now I'm working my first job!
-- 👩🏼‍🎓 I’m currently learning about APIs, GraphQL and Apollo, as well as trying to build a few side projects.
+- 👩🏼‍🎓 I’m currently getting my hands deep in Typescript and Next.js, as well as trying to build my portfolio site.
 - 🔎 I’m always open to tips and help with becoming a better web developer :)
 - 🎮 Favourite games: Assassin's Creed Odyssey, Genshin Impact, Tomb Raider: Legend/Underworld and Euro Truck Simulator 2 (almost 500 hours...)
 - 🌍 Fun fact: I know *most* Capital Cities. Quiz me!
